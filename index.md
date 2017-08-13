@@ -2,7 +2,7 @@
 
 Hi welcome to my page
 
-## help us
+## Help us
 
 help us to grow this site
 
