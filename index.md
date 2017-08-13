@@ -1,8 +1,7 @@
 ## Welcome 
 
-Hi welome to my page
+Hi welcome to my page
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
 ### Markdown
 
